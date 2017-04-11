@@ -1,0 +1,8 @@
+GUI Designer (Optional)
+========================
+(1) sudo apt-get install qt4-designer
+
+GPS Modules & Opens Street Map Parser
+======================================
+(1) sudo aptitude install build-essential python-devel protobuf-compiler libprotobuf-dev python-dev python-gps gpsd
+(2) sudo pip install imposm.parser
